@@ -6,6 +6,7 @@ function App() {
     <>
       <h1>User management app</h1>
       <h2>testing for new feature modal</h2>
+      <h1></h1>
       <UserPage />
     </>
   )
